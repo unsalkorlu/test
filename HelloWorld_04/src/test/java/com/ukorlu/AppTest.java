@@ -1,4 +1,4 @@
-package com.ukorlu.HelloWorld_04;
+package com.ukorlu;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
