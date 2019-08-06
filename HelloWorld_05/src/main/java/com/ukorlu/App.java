@@ -14,6 +14,5 @@ public class App {
 			builder.append(string + "\r\n");
 		}
 		FileUtil.writeFile("C:/data/out.txt", builder.toString());
-
 	}
 }
