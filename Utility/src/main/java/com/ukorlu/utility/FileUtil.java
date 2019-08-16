@@ -15,7 +15,6 @@ public class FileUtil {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	public static String readFile(String fileName) {
