@@ -13,6 +13,6 @@ public class App {
 		for (String string : args) {
 			builder.append(string + "\r\n");
 		}
-		FileUtil.writeFile("C:/data/out.txt", builder.toString());
+		FileUtil.writeFile("out.txt", builder.toString());
 	}
 }

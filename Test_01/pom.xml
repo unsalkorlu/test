@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ukorlu</groupId>
-	<artifactId>Test</artifactId>
+	<artifactId>Test_01</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>Test</name>
+	<name>Test_01</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -31,6 +31,11 @@
 	</build>
 
 	<dependencies>
+		<dependency>
+			<groupId>com.ukorlu</groupId>
+			<artifactId>Utility</artifactId>
+			<version>0.0.1</version>
+		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
