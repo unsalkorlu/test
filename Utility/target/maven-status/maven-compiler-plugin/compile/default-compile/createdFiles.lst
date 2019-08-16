@@ -1,1 +1,7 @@
+com\ukorlu\utility\XmlUtil.class
+com\ukorlu\utility\JsonUtil.class
+com\ukorlu\utility\ConversionDto.class
+com\ukorlu\utility\MapAdapter.class
+com\ukorlu\utility\MapAdapter$AdaptedMap.class
 com\ukorlu\utility\FileUtil.class
+com\ukorlu\utility\MapUtil.class
